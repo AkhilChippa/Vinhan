@@ -12,3 +12,4 @@ def is_prime(n:int)->bool:
         return True
 n=int(input())
 print(is_prime(n))
+print("logic ended")
